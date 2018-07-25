@@ -1,0 +1,21 @@
+name: Tax
+output_dir: '.'
+navbar:
+  title: <font face="Algerian">Tax</font>
+  left:
+  - text: Home
+    icon: fa-home
+    href: index.html
+  - text: Info from IRS
+    icon: fa-book
+    href: Tax1.html
+  - text: Info from Trading Economics
+    icon: fa-book
+    href: Tax2.html
+output:
+  html_document:
+    theme: spacelab
+    highlight: default
+    lib_dir: site_libs
+    self_contained: no
+

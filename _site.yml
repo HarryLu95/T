@@ -9,7 +9,7 @@ navbar:
   - text: Info from IRS
     icon: fa-book
     href: Tax1.html
-  - text: Info from Trading Economics
+  - text: Info from Other Sources
     icon: fa-book
     href: Tax2.html
 output:

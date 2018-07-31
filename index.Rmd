@@ -7,10 +7,13 @@ output:
       collapsed: false
     toc_depth: 2
 ---
-#[Information from IRS (稅務局)](Tax1.html)
+#[IRS信息 (稅務局)](Tax1.html)
 板塊結構:
 
-#[Information from Trading Economics](Tax2.html)
+- IRS對於企業的各種稅務信息，包含17項，其中的藍色字體會連接到IRS相關頁面 (網頁或表格)
+- 對於個人企業的5大項稅收，來源於IRS和相關權威網站的數據
+
+#[其它來源信息](Tax2.html)
 板塊結構:
 
 

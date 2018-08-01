@@ -11,12 +11,33 @@ output:
 板塊結構:
 
 - IRS對於企業的各種稅務信息，包含17項，其中的藍色字體會連接到IRS相關頁面 (網頁或表格)
-- 對於個人企業的5大項稅收，來源於IRS和相關權威網站的數據
+- 17大項中的一些重要細節
+    - 企業結構
+    - 小型企業的稅務指南
 
 #[其它來源信息](Tax2.html)
 板塊結構:
 
-
+- 對於個人企業的5大項稅收，來源於IRS和相關權威網站的數據
+    - 所得稅 (Corporate income tax rate)
+    - 預估稅 (Estimated Tax)
+    - 自雇稅 (Self-Employment Tax)
+    - 就業稅 (Employment Tax)
+    - 工商稅 (Excise Tax, 消费税)
+(I) Trading Economics網站
+    1. Federal Corporate Tax Rate
+    2. Personal Income Tax Rate
+(II) Bankrate網站
+    1. Income Taxes
+(III) Wikipedia
+    1. Taxation in the United States
+    2. Sales taxes in the United States
+    3. Corporate tax in the United States
+(IV) Tax Foundation
+    1. Average State Sale Taxes
+    2. Marginal State Corporate Income Tax
+(V) Patriot Software
+    1. Payroll Blog
 
 
 ######<font color="white">Style</font>

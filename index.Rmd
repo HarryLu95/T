@@ -24,34 +24,34 @@ output:
     - 自雇稅 (Self-Employment Tax)
     - 就業稅 (Employment Tax)
     - 工商稅 (Excise Tax, 消费税)
-(I) Trading Economics網
-    1. Federal Corporate Tax Rate, 聯邦企業稅率
-        - 英文簡介
-    2. Personal Income Tax Rate, 個人收入稅率
-        - 英文簡介
-(II) Bankrate網
-    1. Income Taxes
-        - 不同人群不同收入等級的繳稅比例(表)
-(III) Wikipedia
+(I) Wikipedia
     1. Taxation in the United States
-        - 工资税簡介
-        - 财产税簡介
-        - 销售税簡介
+        - 工资税簡介, Payroll Tax
+        - 财产税簡介, Property Tax
+        - 销售税簡介, Sale Tax
+        - 资产增值税簡介, Capital Gains Tax
+        - 所得稅簡介, Income tax
     2. Sales taxes in the United States
         - 各州基礎銷售稅率、最高銷售稅率(表)
         - 加州附近(地圖)
-(IV) Tax Foundation網
+(II) Bankrate網
+    1. Income Taxes
+        - 不同狀態人群不同收入等級的繳稅比例(表)
+(III) Tax Foundation網
     1. Average State Sale Taxes
         - 各州平均銷售稅稅率(地圖), 2018年1月統計
     2. Marginal State Corporate Income Tax
         - 邊際企業所得稅稅率(地圖), 2018年統計
-(V) Patriot Software網
+(IV) Patriot Software網
     1. Payroll Blog
         - 所得稅、工資稅信息
-(VI) WalletHub網
+(V) WalletHub網
     1. 2018's Property Taxes by State
         - 2018年各州房地產物業稅(表)
         - 2018年各州車輛財產稅(表)
+(VI) Nerdwallet
+    1. Capital Gains Tax Rates
+        - 2018年不同狀態人群的資本利得稅(表)
 
 
 ######<font color="white">Style</font>

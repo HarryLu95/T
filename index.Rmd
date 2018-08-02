@@ -49,7 +49,7 @@ output:
     1. 2018's Property Taxes by State
         - 2018年各州房地產物業稅(表)
         - 2018年各州車輛財產稅(表)
-(VI) Nerdwallet
+(VI) Nerdwallet網
     1. Capital Gains Tax Rates
         - 2018年不同狀態人群的資本利得稅(表)
 

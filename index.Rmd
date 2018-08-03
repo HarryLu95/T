@@ -11,6 +11,23 @@ output:
 板塊結構:
 
 - IRS對於企業的各種稅務信息，包含17項，其中的藍色字體會連接到IRS相關頁面 (網頁或表格)
+    - 項目1: 雇主身份號碼 (EIN), Employer ID Numbers
+    - 項目2: 電子申報小企業的940, 941, 943, 944或945表, E-file Forms 940, 941, 943, 944 or 945 for Small     Businesses
+    - 項目3: 開辦企業, Starting a Business
+    - 項目4: 經營企業, Operating a Business
+    - 項目5: 關閉企業, Closing a Business
+    - **項目6: 就業稅, Employment Taxes**
+    - 項目7: 什麼是納稅與免稅收入? What is Taxable and Nontaxable Income?
+    - 項目8: 獨立經營的承包人 (自雇者) 還是員工? Independent Contractor (Self-Employed) or Employee?
+    - 項目9: 自雇者個人稅務中心, Self-Employed Individuals Tax Center
+    - 項目10: 預估稅, Estimated Taxes
+    - **項目11: 企業稅, Business Taxes (重點!!!)**
+    - 項目12: 帳務記錄保存, Recordkeeping
+    - 項目13: 可負擔健保法案 (ACA), Affordable Care Act (ACA) Tax Provisions
+    - 項目14: 企業抵稅優惠, Business Tax Credits
+    - 項目15: 申報逾期的稅表, Filing Past Due Tax Returns
+    - 項目16: 在家裡工作, Home Office Deduction
+    - 項目17: 個人利息, Interest for Individuals
 - 17大項中的一些重要細節
     - 企業結構
     - 小型企業的稅務指南
